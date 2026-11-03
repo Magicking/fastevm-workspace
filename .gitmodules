@@ -1,0 +1,16 @@
+[submodule "besu"]
+	path = besu
+	url = https://github.com/Magicking/besu.git
+	branch = fastevm
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = https://github.com/Magicking/geth.git
+	branch = fastevm
+[submodule "reth"]
+	path = reth
+	url = https://github.com/Magicking/reth.git
+	branch = fastevm
+[submodule "fastevm"]
+	path = fastevm
+	url = https://github.com/Magicking/evm-opencl.git
+	branch = main
